@@ -5,6 +5,14 @@ It allows users to create text pastes, retrieve them via API, and view them via 
 
 ---
 
+## Live Links
+
+Frontend :- https://paste-bin-lite.vercel.app/
+Backend :- https://paste-bin-lite.onrender.com/
+
+
+---
+
 ## 🚀 Features
 
 - Create a paste with arbitrary text
