@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+input{
+  color:white;
+}
+
+textarea{
+ color:white;
+}
+
+button{
+  color: white;
+}
