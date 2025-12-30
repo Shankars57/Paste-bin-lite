@@ -18,7 +18,9 @@ It allows users to create text pastes, retrieve them via API, and view them via 
 ---
 
 ## 🧱 Tech Stack
-
+## Frontend
+- ReactJS + Tailwindcss
+## Backend
 - Node.js (ES Modules)
 - Express
 - Sequelize ORM
